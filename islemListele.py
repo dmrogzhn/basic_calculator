@@ -1,0 +1,12 @@
+islemler={
+    "Toplama":1,
+    "Çıkarma":2,
+    "Çarpma":3,
+    "Bölme":4
+}
+islemID={
+    1:"Toplama",
+    2:"Çıkarma",
+    3:"Çarpma",
+    4:"Bölme"
+}
